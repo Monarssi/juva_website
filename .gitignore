@@ -31,3 +31,14 @@ google-services.json
 
 # Android Profiling
 *.hprof
+# IDE ve sistem dosyaları
+.DS_Store
+.idea/
+.vscode/
+
+# Geçici log dosyaları
+*.log
+*.tmp
+
+# Gizli yapılandırmalar (ileride eklenirse)
+.env
